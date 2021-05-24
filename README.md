@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hsiang-lee.
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning what I find interesting.
+- 👀 I’m interested in AGILE software development.
+- 🌱 I’m currently learning AGILE.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me leehsiang@hotmail.com
 
