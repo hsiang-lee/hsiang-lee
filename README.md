@@ -19,7 +19,6 @@
 - CARLA simulation platform and sensor modeling  
 
 ## 📫 如何联系我 / How to Reach Me
-- 🌐 个人网站 / Website: [www.osc2studio.online](https://www.osc2studio.online)  
 - 📧 邮箱 / Email: leehsiang@hotmail.com  
 - 💭 知乎 / Zhihu: [www.zhihu.com/people/leehsiang](https://www.zhihu.com/people/leehsiang)  
 
