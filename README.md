@@ -20,7 +20,6 @@
 
 ## 📫 如何联系我 / How to Reach Me
 - 📧 邮箱 / Email: leehsiang@hotmail.com  
-- 💭 知乎 / Zhihu: [www.zhihu.com/people/leehsiang](https://www.zhihu.com/people/leehsiang)  
 
 ## ✨ 合作方向 / Collaboration Areas
 - 自动驾驶仿真工具开发  
